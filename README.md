@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **API, React & MongoDB**
 
-- 🤝 I’m looking for  **Junior Web Dev position**
-
-- 💬 Ask me about **CSS, Github, Git**
-
 - 📫 How to reach me **nan8wl@gmail.com**
 
 
